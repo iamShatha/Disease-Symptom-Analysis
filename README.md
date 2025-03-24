@@ -1,6 +1,7 @@
 # Disease-Symptom-Analysis
  
 The data file defines the relationship between different symptoms and possible diseases
+
 The dataset includes several files. We will use the Disease-symptom.csv file. 
 
 
