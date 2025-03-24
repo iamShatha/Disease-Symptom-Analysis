@@ -31,5 +31,4 @@ We will be using the Matplotlib and Seaborn libraries to show the
 relationship between some symptoms and diseases.  
 Also, we will be including different types of data presentations. 
 The choice of data visualization will depend on the suitability and 
-availability of the data,  
-which allows us to select the most appropriate representation
+availability of the data,  which allows us to select the most appropriate representation
