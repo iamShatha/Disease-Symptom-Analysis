@@ -1,37 +1,45 @@
 # Disease-Symptom-Analysis
- 
-The data file defines the relationship between different symptoms and possible diseases
 
-The dataset includes several files. We had use the Disease-symptom.csv file. 
+Project Description
 
+This project focuses on analyzing the relationship between various symptoms and possible diseases using the Disease-symptom.csv file. The original dataset contains 4,920 records, but we used a random sample of 1,000 records for this analysis.
 
-#Description of the Dataset 
+Understanding these relationships is valuable for assisting healthcare professionals and researchers in diagnosing diseases based on presented symptoms.
 
-The dataset includes several files. We will use the Disease-symptom.csv file. 
-The file is general disease-related data and contains 4920 lines but we will 
-use a sample of it containing 1000 lines randomly. The data file defines the 
-relationship between different symptoms and possible diseases. This 
-association is useful in helping healthcare professionals and researchers 
-diagnose diseases based on the symptoms presented. 
+⸻
 
-• Analysis 
-we well use mean , median and mode from statistics library  
-and use DataFrame from pandas to compute the correlation matrix of 
-the dataset 
-use Series.value_counts() for word frequency analysis.  
-Use groupby() from pandas to group data and apply aggregate 
-functions 
+Data Preprocessing
 
-• Preprocessing 
-In the disease symptom prediction project, I will load the file into a Pandas 
-DataFrame. And handle missing values, remove duplicates, and normalize 
-numerical data. Additionally, I will tokenize symptom text and validate the 
-dataset to ensure accurate relationships between symptoms and diseases. 
-This will result in a clean dataset ready for analysis and visualization. 
+The preprocessing steps included:
+	•	Loading the data into a Pandas DataFrame
+	•	Handling missing values
+	•	Removing duplicates
+	•	Normalizing numerical data
+	•	Tokenizing symptom text fields
+	•	Validating symptom-disease relationships
 
-• Visualizations 
-We will be using the Matplotlib and Seaborn libraries to show the 
-relationship between some symptoms and diseases.  
-Also, we will be including different types of data presentations. 
-The choice of data visualization will depend on the suitability and 
-availability of the data,  which allows us to select the most appropriate representation
+These steps ensured a clean, accurate, and reliable dataset ready for analysis and visualization.
+
+⸻
+
+Analysis
+
+For statistical analysis, we used the statistics library to compute:
+	•	Mean
+	•	Median
+	•	Mode
+
+We also used Pandas to:
+	•	Calculate the correlation matrix
+	•	Perform word frequency analysis using Series.value_counts()
+	•	Group and aggregate data using groupby()
+
+⸻
+
+Visualizations
+
+To explore and present the data visually, we used:
+	•	Matplotlib
+	•	Seaborn
+
+We applied various types of visualizations to show the relationships between symptoms and diseases. The selection of each chart type was based on data suitability, allowing for the most effective and meaningful representation of insights.
