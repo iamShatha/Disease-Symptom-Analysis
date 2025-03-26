@@ -2,7 +2,7 @@
  
 The data file defines the relationship between different symptoms and possible diseases
 
-The dataset includes several files. We will use the Disease-symptom.csv file. 
+The dataset includes several files. We had use the Disease-symptom.csv file. 
 
 
 #Description of the Dataset 
