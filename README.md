@@ -2,7 +2,7 @@
 
 #Project Description
 
-This project focuses on analyzing the relationship between various symptoms and possible diseases using the Disease-symptom.csv file. The original dataset contains 4,920 records, but we used a random sample of 1,000 records for this analysis.
+Collaborated in a team project to analyze the relationship between symptoms and diseases using the Disease-symptom.csv dataset, writing code for data processing, selecting a random sample of 1,000 records out of 4,920, and analyzing results to support medical diagnosis.
 
 Understanding these relationships is valuable for assisting healthcare professionals and researchers in diagnosing diseases based on presented symptoms.
 
